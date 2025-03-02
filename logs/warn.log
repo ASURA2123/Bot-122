@@ -1,0 +1,386 @@
+{"timestamp":"2025-02-27T08:57:01.540Z","level":"warn","message":"Port 3000 is in use, using alternative port 3001"}
+{"timestamp":"2025-02-27T08:59:07.480Z","level":"warn","message":"Port 3001 is in use, using alternative port 3002"}
+{"timestamp":"2025-02-27T09:08:59.229Z","level":"warn","message":"Port 3001 is in use, using alternative port 3003"}
+{"timestamp":"2025-02-27T09:13:45.689Z","level":"warn","message":"Port 3001 is in use, using alternative port 3004"}
+{"timestamp":"2025-02-27T09:22:19.039Z","level":"warn","message":"Port 3001 is in use, using alternative port 3003"}
+{"timestamp":"2025-02-27T09:22:49.064Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:22:49.065Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:23:19.093Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:23:19.094Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:23:49.124Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:23:49.124Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:24:19.153Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:24:19.154Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:24:49.183Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:24:49.184Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:25:19.214Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:25:19.214Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:25:49.244Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:25:49.244Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:26:15.233Z","level":"warn","message":"Port 3001 is in use, using alternative port 3005"}
+{"timestamp":"2025-02-27T09:26:19.273Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:26:19.274Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:26:45.256Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:26:45.257Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:26:49.304Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:26:49.304Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:27:15.285Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:27:15.286Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:27:19.334Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:27:19.334Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:27:45.316Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:27:45.316Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:27:49.363Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:27:49.363Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:27:59.850Z","level":"warn","message":"Port 3001 is in use, using alternative port 3006"}
+{"timestamp":"2025-02-27T09:28:15.346Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.28","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:28:15.346Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.28","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:28:19.394Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.28","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:28:19.394Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.28","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:28:29.916Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:28:29.916Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:28:45.375Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:28:45.376Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:28:49.423Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:28:49.424Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:28:59.945Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:28:59.945Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:29:15.406Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.71","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:29:15.406Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.71","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:29:19.452Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.71","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:29:19.453Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.71","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:29:29.974Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.05","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:29:29.975Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.05","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:29:45.439Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:29:45.440Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:29:49.483Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:29:49.483Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:30:00.005Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:30:00.006Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:30:15.470Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:30:15.470Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:30:19.513Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:30:19.513Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:30:30.034Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:30:30.035Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:30:45.500Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:30:45.501Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:30:49.543Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:30:49.543Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:31:00.065Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:31:00.065Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:31:19.572Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:31:19.573Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:31:30.095Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:31:30.095Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:31:49.602Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:31:49.603Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:32:00.124Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:32:00.125Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:32:19.632Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:32:19.633Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:32:30.155Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:32:30.155Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:32:49.663Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.69","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:32:49.663Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.69","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:33:00.184Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.80","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:33:00.185Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.80","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:33:19.692Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.72","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:33:19.693Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.72","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:33:21.090Z","level":"warn","message":"Port 3001 is in use, using alternative port 3005"}
+{"timestamp":"2025-02-27T09:33:30.215Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.29","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:33:30.215Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.29","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:33:43.025Z","level":"warn","message":"Port 3001 is in use, using alternative port 3007"}
+{"timestamp":"2025-02-27T09:33:49.723Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:33:49.723Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:33:51.116Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:33:51.119Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:34:00.245Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:34:00.245Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:34:13.050Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:34:13.051Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:34:21.145Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:34:21.146Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:34:30.275Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:34:30.275Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:34:43.080Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:34:43.081Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:34:51.176Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:34:51.176Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:35:00.305Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:35:00.305Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T09:35:13.109Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:35:13.109Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:35:21.206Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:35:21.207Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:35:30.335Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:35:30.335Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:35:43.140Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:35:43.140Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:35:51.237Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:35:51.238Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:36:00.364Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:36:00.365Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:36:13.142Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:36:13.142Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:36:21.266Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:36:21.267Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:36:30.394Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:36:30.395Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T09:36:42.088Z","level":"warn","message":"Port 3001 is in use, using alternative port 3005"}
+{"timestamp":"2025-02-27T09:36:49.902Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.49"]}}
+{"timestamp":"2025-02-27T09:36:49.903Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.49"]}}
+{"timestamp":"2025-02-27T09:37:00.424Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.67","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:37:00.425Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.67","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:37:12.114Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.45","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:37:12.115Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.45","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:37:19.933Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.39"]}}
+{"timestamp":"2025-02-27T09:37:19.933Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.39"]}}
+{"timestamp":"2025-02-27T09:37:30.455Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.49","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:37:30.456Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.49","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:37:42.141Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:37:42.142Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:38:00.485Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:38:00.485Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T09:38:12.171Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:38:12.171Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:38:30.514Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:38:30.514Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:38:42.201Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:38:42.201Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:39:00.545Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:39:00.545Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:39:12.231Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:39:12.231Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:39:30.574Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:39:30.575Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T09:39:42.260Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:39:42.261Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:39:53.117Z","level":"warn","message":"Port 3001 is in use, using alternative port 3007"}
+{"timestamp":"2025-02-27T09:40:00.606Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 96%"]}}
+{"timestamp":"2025-02-27T09:40:00.606Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 96%"]}}
+{"timestamp":"2025-02-27T09:40:12.290Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:40:12.291Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T09:40:42.321Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:40:42.321Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:41:12.351Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:41:12.351Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:41:30.695Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.72"]}}
+{"timestamp":"2025-02-27T09:41:30.696Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.72"]}}
+{"timestamp":"2025-02-27T09:41:42.381Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.32","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:41:42.381Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.32","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:41:50.203Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.17"]}}
+{"timestamp":"2025-02-27T09:41:50.204Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.17"]}}
+{"timestamp":"2025-02-27T09:42:00.726Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.90"]}}
+{"timestamp":"2025-02-27T09:42:00.726Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.90"]}}
+{"timestamp":"2025-02-27T09:42:12.411Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.61","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:42:12.411Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.61","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:42:20.234Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.30"]}}
+{"timestamp":"2025-02-27T09:42:20.234Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.30"]}}
+{"timestamp":"2025-02-27T09:42:30.755Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.66"]}}
+{"timestamp":"2025-02-27T09:42:30.755Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.66"]}}
+{"timestamp":"2025-02-27T09:42:42.440Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:42:42.441Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:43:12.470Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:43:12.471Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:43:20.296Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.73"]}}
+{"timestamp":"2025-02-27T09:43:20.297Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.73"]}}
+{"timestamp":"2025-02-27T09:43:30.816Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.69"]}}
+{"timestamp":"2025-02-27T09:43:30.816Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.69"]}}
+{"timestamp":"2025-02-27T09:43:42.500Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.27","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:43:42.501Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.27","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:43:50.326Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.52"]}}
+{"timestamp":"2025-02-27T09:43:50.327Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.52"]}}
+{"timestamp":"2025-02-27T09:44:00.846Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.12"]}}
+{"timestamp":"2025-02-27T09:44:00.846Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.12"]}}
+{"timestamp":"2025-02-27T09:44:12.531Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.00","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:44:12.530Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.00","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T09:44:20.357Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.00"]}}
+{"timestamp":"2025-02-27T09:44:20.357Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.00"]}}
+{"timestamp":"2025-02-27T09:44:30.875Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.32"]}}
+{"timestamp":"2025-02-27T09:44:30.875Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.32"]}}
+{"timestamp":"2025-02-27T09:44:42.720Z","level":"warn","message":"Port 3001 is in use, using alternative port 3005"}
+{"timestamp":"2025-02-27T09:52:31.357Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.28"]}}
+{"timestamp":"2025-02-27T09:52:31.357Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.28"]}}
+{"timestamp":"2025-02-27T09:52:50.838Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.10"]}}
+{"timestamp":"2025-02-27T09:52:50.838Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.10"]}}
+{"timestamp":"2025-02-27T09:53:01.386Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.44"]}}
+{"timestamp":"2025-02-27T09:53:01.387Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.44"]}}
+{"timestamp":"2025-02-27T09:53:20.867Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.14"]}}
+{"timestamp":"2025-02-27T09:53:20.868Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.14"]}}
+{"timestamp":"2025-02-27T09:53:31.417Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.84"]}}
+{"timestamp":"2025-02-27T09:53:31.417Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.84"]}}
+{"timestamp":"2025-02-27T09:53:50.898Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.66","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:53:50.898Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.66","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:54:01.447Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.27"]}}
+{"timestamp":"2025-02-27T09:54:01.448Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.27"]}}
+{"timestamp":"2025-02-27T09:54:20.927Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.94","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:54:20.927Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.94","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:54:31.477Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.84"]}}
+{"timestamp":"2025-02-27T09:54:31.478Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.84"]}}
+{"timestamp":"2025-02-27T09:54:50.957Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.12","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:54:50.958Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.12","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:55:01.509Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.19","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:55:01.510Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.19","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:55:20.988Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 14.63","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:55:20.989Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 14.63","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:55:31.537Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 13.46","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:55:31.538Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 13.46","Heap memory usage is high: 85%"]}}
+{"timestamp":"2025-02-27T09:55:51.017Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.11","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:55:51.018Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.11","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:56:01.568Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.51","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:56:01.568Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.51","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:56:21.048Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.69","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:56:21.048Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.69","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:56:31.599Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.87","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:56:31.600Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.87","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:56:51.078Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.98","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:56:51.078Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.98","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:57:01.632Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.79","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:57:01.632Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.79","Heap memory usage is high: 86%"]}}
+{"timestamp":"2025-02-27T09:57:21.108Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.38","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:57:21.108Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.38","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:57:31.661Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.07","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:57:31.661Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.07","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:57:51.137Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.25","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:57:51.138Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.25","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:58:01.663Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.99","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:58:01.663Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.99","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:58:21.167Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.07","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:58:21.168Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.07","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:58:31.693Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.67","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:58:31.694Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.67","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:58:51.197Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.95","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:58:51.198Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.95","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T09:59:01.723Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.56","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:59:01.724Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.56","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:59:21.227Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.94","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:59:21.228Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.94","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:59:31.753Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.61","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:59:31.754Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.61","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T09:59:51.259Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.85","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T09:59:51.259Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.85","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:00:01.784Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:00:01.785Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:00:21.287Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:00:21.288Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:00:31.815Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:00:31.815Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:00:51.318Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.24","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:00:51.318Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.24","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:01:01.845Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.41","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:01:01.845Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.41","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:01:21.348Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.88","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:01:21.348Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.88","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:01:31.874Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.14","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:01:31.875Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.14","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:01:51.378Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.39","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:01:51.378Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.39","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:02:01.905Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.28","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:02:01.904Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.28","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:02:21.408Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.07","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:02:21.408Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.07","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:02:31.935Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.61","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:02:31.934Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.61","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:02:51.438Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.92","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:02:51.438Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.92","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:03:01.965Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 13.22","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:03:01.965Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 13.22","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:03:21.468Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.89","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:03:21.468Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.89","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:03:31.995Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 13.56","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:03:31.995Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 13.56","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:03:51.497Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.79","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:03:51.498Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.79","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:04:02.024Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.85","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:04:02.025Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.85","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:04:21.528Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.98","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:04:21.528Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.98","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:04:32.054Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 14.80","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:04:32.054Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 14.80","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:04:51.558Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 14.91","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:04:51.558Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 14.91","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:05:02.084Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 15.04","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:05:02.085Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 15.04","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:05:21.588Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 13.08","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:05:21.588Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 13.08","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:05:32.115Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.31","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:05:32.115Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.31","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:05:51.617Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 12.10","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:05:51.618Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 12.10","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:06:02.144Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.07","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:06:02.145Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.07","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:06:21.648Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.56","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:06:21.648Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.56","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:06:32.174Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.32","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:06:32.174Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.32","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:06:51.678Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.31","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:06:51.678Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.31","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:07:02.204Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.51","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:07:02.205Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.51","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:07:21.707Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.32","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:07:21.708Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.32","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:07:32.234Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.75","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:07:32.235Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.75","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:07:51.737Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.87","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:07:51.737Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.87","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:08:02.264Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.47","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:08:02.264Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.47","Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:08:21.767Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.96","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:08:21.767Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.96","Heap memory usage is high: 95%"]}}
+{"timestamp":"2025-02-27T10:08:32.294Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:08:32.294Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 92%"]}}
+{"timestamp":"2025-02-27T10:08:51.797Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 96%"]}}
+{"timestamp":"2025-02-27T10:08:51.798Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 96%"]}}
+{"timestamp":"2025-02-27T10:09:02.324Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:09:02.325Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:09:21.827Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:09:21.828Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:09:32.354Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.89","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:09:32.354Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.89","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:09:51.858Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.80","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:09:51.858Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.80","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:10:02.385Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.17","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:10:02.386Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.17","Heap memory usage is high: 93%"]}}
+{"timestamp":"2025-02-27T10:10:21.888Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.49","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:10:21.889Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.49","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:10:32.414Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.43","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:10:32.414Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.43","Heap memory usage is high: 94%"]}}
+{"timestamp":"2025-02-27T10:10:51.917Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 8.01","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:10:51.918Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 8.01","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:11:02.445Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 7.54","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:11:02.445Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 7.54","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:11:21.947Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 6.76","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:11:21.947Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 6.76","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:11:32.475Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.54","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:11:32.475Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.54","Heap memory usage is high: 87%"]}}
+{"timestamp":"2025-02-27T10:11:51.977Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.55","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:11:51.978Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.55","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:12:02.504Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.76","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:12:02.505Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.76","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:12:22.008Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.35","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:12:22.008Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.35","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:12:32.534Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.78","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:12:32.535Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.78","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:12:52.038Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.30","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:12:52.038Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.30","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:13:02.565Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.74","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:13:02.565Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.74","Heap memory usage is high: 88%"]}}
+{"timestamp":"2025-02-27T10:13:22.068Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.43","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:13:22.067Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.43","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:13:32.597Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.81","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:13:32.597Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.81","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:13:52.097Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.46","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:13:52.098Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.46","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:14:02.626Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.30","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:14:02.627Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.30","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:14:22.128Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.09","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:14:22.128Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.09","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:14:32.657Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.67","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:14:32.657Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.67","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:14:52.158Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 11.12","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:14:52.158Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 11.12","Heap memory usage is high: 90%"]}}
+{"timestamp":"2025-02-27T10:15:02.687Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 10.10","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:15:02.687Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 10.10","Heap memory usage is high: 89%"]}}
+{"timestamp":"2025-02-27T10:15:22.188Z","level":"warn","message":"Health issues detected:","metadata":{"issues":["CPU load is high: 9.02","Heap memory usage is high: 91%"]}}
+{"timestamp":"2025-02-27T10:15:22.188Z","level":"warn","message":"System health issues detected:","metadata":{"issues":["CPU load is high: 9.02","Heap memory usage is high: 91%"]}}

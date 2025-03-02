@@ -1,0 +1,105 @@
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T13:47:33.916Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T13:47:33.938Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T13:47:33.938Z"}
+{"level":"info","message":"Attempting to start server on port 3001...","timestamp":"2025-02-27T13:47:33.946Z"}
+{"level":"info","message":"Server started successfully on port 3001","timestamp":"2025-02-27T13:47:33.948Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3001/health","timestamp":"2025-02-27T13:47:33.948Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T13:47:33.949Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nefohh7nqxlseqwjt","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T13:47:34.709Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 3ms","metadata":{"contentLength":84,"requestId":"m7nefohh7nqxlseqwjt","responseTime":"3ms","status":200},"timestamp":"2025-02-27T13:47:34.712Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:11:57.431Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:11:57.452Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:11:57.452Z"}
+{"level":"info","message":"Attempting to start server on port 3001...","timestamp":"2025-02-27T14:11:57.482Z"}
+{"level":"info","message":"Server started successfully on port 3001","timestamp":"2025-02-27T14:11:57.484Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3001/health","timestamp":"2025-02-27T14:11:57.485Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:11:57.485Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nfb1ti9aowly6anok","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:11:58.326Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 3ms","metadata":{"contentLength":84,"requestId":"m7nfb1ti9aowly6anok","responseTime":"3ms","status":200},"timestamp":"2025-02-27T14:11:58.329Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:20:09.457Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:20:09.529Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:20:09.530Z"}
+{"level":"info","message":"Attempting to start server on port 3001...","timestamp":"2025-02-27T14:20:09.539Z"}
+{"level":"info","message":"Server started successfully on port 3001","timestamp":"2025-02-27T14:20:09.542Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3001/health","timestamp":"2025-02-27T14:20:09.543Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:20:09.543Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nfllczkc3vqnrh85","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:20:10.211Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 2ms","metadata":{"contentLength":84,"requestId":"m7nfllczkc3vqnrh85","responseTime":"2ms","status":200},"timestamp":"2025-02-27T14:20:10.213Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:28:39.540Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:28:39.592Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:28:39.593Z"}
+{"level":"info","message":"Attempting to start server on port 3001...","timestamp":"2025-02-27T14:28:39.600Z"}
+{"level":"info","message":"Server started successfully on port 3001","timestamp":"2025-02-27T14:28:39.602Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3001/health","timestamp":"2025-02-27T14:28:39.603Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:28:39.603Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nfwnqvxg5wu8mopu","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:28:46.520Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 3ms","metadata":{"contentLength":84,"requestId":"m7nfwnqvxg5wu8mopu","responseTime":"3ms","status":200},"timestamp":"2025-02-27T14:28:46.522Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:44:24.085Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:44:24.123Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:44:24.124Z"}
+{"level":"warn","message":"Port 3001 is in use, using alternative port 3002","timestamp":"2025-02-27T14:44:24.133Z"}
+{"level":"info","message":"Attempting to start server on port 3002...","timestamp":"2025-02-27T14:44:24.134Z"}
+{"level":"info","message":"Server started successfully on port 3002","timestamp":"2025-02-27T14:44:24.136Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3002/health","timestamp":"2025-02-27T14:44:24.136Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:44:24.137Z"}
+{"level":"info","message":"Bắt đầu kiểm tra đăng nhập...","timestamp":"2025-02-27T14:45:10.908Z"}
+{"level":"info","message":"File cookies hợp lệ!","timestamp":"2025-02-27T14:45:10.925Z"}
+{"level":"info","message":"Tìm thấy 5 cookies","timestamp":"2025-02-27T14:45:10.926Z"}
+{"level":"info","message":"Đang thử đăng nhập...","timestamp":"2025-02-27T14:45:10.927Z"}
+{"error":"{\n  \"error\": \"Error inside first pull request. Received HTML instead of JSON. Logging in inside a browser might help fix this.\"\n}","level":"error","message":"Chi tiết lỗi đăng nhập:","stack":"FacebookLoginError: {\n  \"error\": \"Error inside first pull request. Received HTML instead of JSON. Logging in inside a browser might help fix this.\"\n}\n    at <anonymous> (/home/runner/workspace/src/test-login.ts:68:25)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)","timestamp":"2025-02-27T14:45:12.084Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:45:13.113Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:45:13.153Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:45:13.154Z"}
+{"level":"warn","message":"Port 3001 is in use, using alternative port 3003","timestamp":"2025-02-27T14:45:13.187Z"}
+{"level":"info","message":"Attempting to start server on port 3003...","timestamp":"2025-02-27T14:45:13.188Z"}
+{"level":"info","message":"Server started successfully on port 3003","timestamp":"2025-02-27T14:45:13.190Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3003/health","timestamp":"2025-02-27T14:45:13.190Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:45:13.190Z"}
+{"level":"info","message":"Bắt đầu kiểm tra đăng nhập...","timestamp":"2025-02-27T14:47:11.305Z"}
+{"level":"info","message":"File cookies hợp lệ!","timestamp":"2025-02-27T14:47:11.323Z"}
+{"level":"info","message":"Tìm thấy 5 cookies","timestamp":"2025-02-27T14:47:11.324Z"}
+{"level":"info","message":"Đang thử đăng nhập...","timestamp":"2025-02-27T14:47:11.325Z"}
+{"error":"{\n  \"error\": \"Error inside first pull request. Received HTML instead of JSON. Logging in inside a browser might help fix this.\"\n}","level":"error","message":"Chi tiết lỗi đăng nhập:","stack":"FacebookLoginError: {\n  \"error\": \"Error inside first pull request. Received HTML instead of JSON. Logging in inside a browser might help fix this.\"\n}\n    at <anonymous> (/home/runner/workspace/src/test-login.ts:68:25)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)","timestamp":"2025-02-27T14:47:11.949Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-02-27T14:47:53.041Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:50:36.062Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:50:36.117Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:50:36.118Z"}
+{"level":"info","message":"Attempting to start server on port 3001...","timestamp":"2025-02-27T14:50:36.125Z"}
+{"level":"info","message":"Server started successfully on port 3001","timestamp":"2025-02-27T14:50:36.129Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3001/health","timestamp":"2025-02-27T14:50:36.130Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:50:36.130Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:50:51.122Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:50:51.157Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:50:51.158Z"}
+{"level":"warn","message":"Port 3001 is in use, using alternative port 3004","timestamp":"2025-02-27T14:50:51.188Z"}
+{"level":"info","message":"Attempting to start server on port 3004...","timestamp":"2025-02-27T14:50:51.189Z"}
+{"level":"info","message":"Server started successfully on port 3004","timestamp":"2025-02-27T14:50:51.191Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3004/health","timestamp":"2025-02-27T14:50:51.192Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:50:51.192Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7ngtvqcmuiv9nhlx69","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:54:36.516Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 1ms","metadata":{"contentLength":84,"requestId":"m7ngtvqcmuiv9nhlx69","responseTime":"1ms","status":200},"timestamp":"2025-02-27T14:54:36.517Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7ngzhbvqfbehk6ql8","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:58:57.787Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 1ms","metadata":{"contentLength":84,"requestId":"m7ngzhbvqfbehk6ql8","responseTime":"1ms","status":200},"timestamp":"2025-02-27T14:58:57.788Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T14:59:47.201Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T14:59:47.236Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T14:59:47.237Z"}
+{"level":"warn","message":"Port 3001 is in use, using alternative port 3005","timestamp":"2025-02-27T14:59:47.248Z"}
+{"level":"info","message":"Attempting to start server on port 3005...","timestamp":"2025-02-27T14:59:47.249Z"}
+{"level":"info","message":"Server started successfully on port 3005","timestamp":"2025-02-27T14:59:47.283Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3005/health","timestamp":"2025-02-27T14:59:47.283Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T14:59:47.284Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nh0k2fti932wux4iq","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T14:59:47.991Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 0ms","metadata":{"contentLength":84,"requestId":"m7nh0k2fti932wux4iq","responseTime":"0ms","status":200},"timestamp":"2025-02-27T14:59:47.991Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-02-27T15:07:54.579Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nhb04lsj3d0lopfmo","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T15:07:55.365Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 2ms","metadata":{"contentLength":84,"requestId":"m7nhb04lsj3d0lopfmo","responseTime":"2ms","status":200},"timestamp":"2025-02-27T15:07:55.367Z"}
+{"level":"info","message":"Bot status service initialized","timestamp":"2025-02-27T15:07:56.810Z"}
+{"level":"info","message":"Starting server initialization...","timestamp":"2025-02-27T15:07:56.846Z"}
+{"level":"info","message":"No PORT specified in environment variables, using default port 3001","timestamp":"2025-02-27T15:07:56.846Z"}
+{"level":"warn","message":"Port 3001 is in use, using alternative port 3004","timestamp":"2025-02-27T15:07:56.882Z"}
+{"level":"info","message":"Attempting to start server on port 3004...","timestamp":"2025-02-27T15:07:56.884Z"}
+{"level":"info","message":"Server started successfully on port 3004","timestamp":"2025-02-27T15:07:56.885Z"}
+{"level":"info","message":"Health check endpoint: http://0.0.0.0:3004/health","timestamp":"2025-02-27T15:07:56.886Z"}
+{"level":"info","message":"System monitoring started with interval of 30000ms","timestamp":"2025-02-27T15:07:56.887Z"}
+{"level":"info","message":"Request: GET /","metadata":{"ip":"172.31.128.68","method":"GET","path":"/","requestId":"m7nhb1skh9p9luzw7bu","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},"timestamp":"2025-02-27T15:07:57.524Z"}
+{"level":"info","message":"Response: GET / \u001b[32m200\u001b[39m 3ms","metadata":{"contentLength":84,"requestId":"m7nhb1skh9p9luzw7bu","responseTime":"3ms","status":200},"timestamp":"2025-02-27T15:07:57.527Z"}

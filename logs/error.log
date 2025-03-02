@@ -1,0 +1,1396 @@
+2025-02-25T15:04:02.710Z - [ERROR] Lỗi khởi động bot
+TypeError: Cannot read properties of undefined (reading 'catch')
+    at <anonymous> (/home/runner/workspace/src/index.ts:44:48)
+    at Array.map (<anonymous>)
+    at startBot (/home/runner/workspace/src/index.ts:43:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (/home/runner/workspace/src/index.ts:59:13)
+2025-02-25T15:04:02.711Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'catch')
+    at <anonymous> (/home/runner/workspace/src/index.ts:44:48)
+    at Array.map (<anonymous>)
+    at startBot (/home/runner/workspace/src/index.ts:43:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (/home/runner/workspace/src/index.ts:59:13)
+2025-02-25T15:04:41.249Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:04:41.618Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:04:41.753Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:05:12.431Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:05:12.713Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:04.496Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:04.511Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:04.575Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:35.302Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:35.361Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:44.793Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:44.820Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:06:44.888Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:07:15.601Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:07:15.661Z - [ERROR] Error in MQTT listener
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:07:28.330Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:07:59.420Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:08:30.551Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:08:43.565Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:09:14.867Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:09:23.157Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:09:54.292Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:10:14.081Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:10:45.210Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:11:15.875Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:11:40.225Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:12:11.324Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:12:29.154Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:12:59.945Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:13:30.591Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:24:20.995Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:24:47.216Z - [ERROR] Max reconnection attempts reached, throwing error
+2025-02-25T15:25:27.414Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:25:58.092Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+TypeError: Cannot read properties of undefined (reading 'successful_results')
+    at /home/runner/workspace/node_modules/facebook-chat-api/src/listenMqtt.js:532:41
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:489:14)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+2025-02-25T15:26:22.611Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:22.612Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:28.210Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:28.227Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:33.758Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:33.883Z - [ERROR] Login error:
+undefined
+2025-02-25T15:26:38.761Z - [ERROR] Login failed after multiple attempts
+2025-02-25T15:26:38.761Z - [ERROR] Login error:
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:69:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:26:38.761Z - [ERROR] Lỗi khởi động bot
+Error: Could not login after multiple attempts
+    at loginBot (/home/runner/workspace/src/utils/login.ts:139:11)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:26:38.761Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Could not login after multiple attempts
+    at loginBot (/home/runner/workspace/src/utils/login.ts:139:11)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:45:06.564Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:06.809Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:12.111Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:12.452Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:17.670Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:18.043Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:22.672Z - [ERROR] Login error:
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:72:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:45:22.672Z - [ERROR] Login failed after multiple attempts
+2025-02-25T15:45:22.672Z - [ERROR] Lỗi khởi động bot
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:72:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:45:22.672Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:72:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:45:53.348Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:53.769Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:59.032Z - [ERROR] Login error:
+undefined
+2025-02-25T15:45:59.403Z - [ERROR] Login error:
+undefined
+2025-02-25T15:46:04.535Z - [ERROR] Login error:
+undefined
+2025-02-25T15:46:05.024Z - [ERROR] Login error:
+undefined
+2025-02-25T15:46:09.538Z - [ERROR] Login error:
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:57:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:46:09.538Z - [ERROR] Login failed after multiple attempts
+2025-02-25T15:46:09.538Z - [ERROR] Lỗi khởi động bot
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:57:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:46:09.538Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Max retry attempts reached
+    at loginBot (/home/runner/workspace/src/utils/login.ts:57:15)
+    at async startBot (/home/runner/workspace/src/index.ts:27:20)
+    at async main (/home/runner/workspace/src/index.ts:63:13)
+2025-02-25T15:47:13.647Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:17.907Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:18.150Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:23.495Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:23.792Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:29.048Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:29.389Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:34.604Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:34.604Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-25T15:47:34.604Z - [ERROR] Lỗi khởi động bot
+undefined
+2025-02-25T15:47:54.042Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:54.285Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:59.569Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:47:59.870Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:48:05.097Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:48:05.749Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:48:10.778Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:48:10.779Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-25T15:48:10.779Z - [ERROR] Lỗi khởi động bot
+undefined
+2025-02-25T15:49:22.525Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:22.772Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:28.096Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:28.411Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:33.638Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:33.991Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:39.153Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:49:39.153Z - [ERROR] Lỗi khởi động bot
+undefined
+2025-02-25T15:49:39.153Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-25T15:53:18.449Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:18.449Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:53:18.716Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:18.716Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:53:24.003Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:24.004Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:53:24.574Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:53:24.574Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:34.975Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:34.975Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:53:35.222Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:53:35.222Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:11.729Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:54:11.729Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:11.948Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:11.948Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:54:22.350Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:54:22.350Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:22.675Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:54:22.676Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:42.954Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:54:42.954Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:43.289Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:54:43.288Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:55:23.832Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T15:55:23.832Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-25T15:55:23.832Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-25T15:55:23.832Z - [ERROR] Lỗi khởi động bot
+undefined
+2025-02-25T15:56:01.755Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:56:02.001Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:56:12.342Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:56:12.609Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:56:32.957Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:56:33.212Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:57:13.601Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+[object Object]
+2025-02-25T15:57:13.603Z - [ERROR] Lỗi khởi động bot
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:97:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T15:57:13.603Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:97:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:03:12.683Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:03:12.726Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:03:23.303Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:03:23.309Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:03:43.891Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:03:43.930Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:04:38.962Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:04:39.213Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:04:49.529Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:04:49.832Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:05:10.173Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:05:10.460Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:05:50.812Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:05:50.814Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:98:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:05:50.814Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:98:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:06:32.963Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:06:33.231Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:06:43.586Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:06:43.889Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:07:04.190Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:07:04.508Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:07:44.855Z - [ERROR] Chi tiết lỗi đăng nhập Facebook:
+undefined
+2025-02-25T16:07:44.857Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:93:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:07:44.857Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:93:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:09:19.854Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:09:20.060Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:09:30.430Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:09:30.843Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:09:51.035Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:09:51.443Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:10:31.649Z - [ERROR] Chi tiết lỗi đăng nhập:
+undefined
+2025-02-25T16:10:31.652Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:109:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:10:31.652Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập Facebook sau nhiều lần thử
+    at loginBot (/home/runner/workspace/src/utils/login.ts:109:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:21:36.364Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:21:36.596Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:21:47.008Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:21:47.211Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:22:07.613Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:22:07.802Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:22:48.241Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:22:48.421Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:22:48.770Z - [ERROR] Lỗi đăng nhập với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:22:48.982Z - [ERROR] Lỗi đăng nhập với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:22:49.404Z - [ERROR] Lỗi đăng nhập với tài khoản Anh48720@gmail.com:
+undefined
+2025-02-25T16:22:49.406Z - [ERROR] Lỗi đăng nhập:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:131:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:22:49.406Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:131:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:22:49.406Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:131:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:27:19.563Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:27:19.745Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:27:30.187Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:27:30.364Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:27:50.778Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:27:50.978Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:28:31.416Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:28:31.596Z - [ERROR] Lỗi đăng nhập với tài khoản 0868577240:
+undefined
+2025-02-25T16:28:31.962Z - [ERROR] Lỗi đăng nhập với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:28:32.123Z - [ERROR] Lỗi đăng nhập với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:28:32.534Z - [ERROR] Lỗi đăng nhập với tài khoản Anh48720@gmail.com:
+undefined
+2025-02-25T16:28:32.537Z - [ERROR] Lỗi đăng nhập:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:145:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:28:32.537Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:145:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:28:32.537Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:145:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:29:12.378Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:29:12.593Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:29:22.964Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:29:23.182Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:29:43.572Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:29:43.785Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:30:24.190Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:30:24.191Z - [ERROR] Lỗi không xác định với tài khoản 0868577240:
+undefined
+2025-02-25T16:30:24.398Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:30:24.399Z - [ERROR] Lỗi không xác định với tài khoản 0868577240:
+undefined
+2025-02-25T16:30:24.717Z - [ERROR] Lỗi không xác định với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:30:24.717Z - [ERROR] Chi tiết lỗi đăng nhập (Ducanhdenho123ok@gmail.com):
+undefined
+2025-02-25T16:30:24.919Z - [ERROR] Chi tiết lỗi đăng nhập (Ducanhdenho123ok@gmail.com):
+undefined
+2025-02-25T16:30:24.919Z - [ERROR] Lỗi không xác định với tài khoản Ducanhdenho123ok@gmail.com:
+undefined
+2025-02-25T16:30:25.235Z - [ERROR] Chi tiết lỗi đăng nhập (Anh48720@gmail.com):
+undefined
+2025-02-25T16:30:25.235Z - [ERROR] Lỗi không xác định với tài khoản Anh48720@gmail.com:
+undefined
+2025-02-25T16:30:25.238Z - [ERROR] Lỗi khởi động bot:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:127:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:30:25.238Z - [ERROR] Lỗi đăng nhập:
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:127:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:30:25.238Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Không thể đăng nhập với bất kỳ tài khoản nào
+    at loginBot (/home/runner/workspace/src/utils/login.ts:127:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:31:46.080Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:31:46.311Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:31:56.678Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:31:56.903Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:17.299Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:17.487Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:43.747Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:43.941Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:54.322Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:32:54.804Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:14.988Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:15.389Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:39.880Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:40.083Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:50.441Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:33:50.915Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:34:11.047Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:34:11.507Z - [ERROR] Chi tiết lỗi đăng nhập (0868577240):
+undefined
+2025-02-25T16:34:38.854Z - [ERROR] Lỗi đăng nhập:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:34:38.855Z - [ERROR] Lỗi khởi động bot:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:34:38.855Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:35:49.044Z - [ERROR] Lỗi đăng nhập:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:35:49.048Z - [ERROR] Lỗi khởi động bot:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:35:49.048Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:21:20)
+    at async main (/home/runner/workspace/src/index.ts:39:13)
+2025-02-25T16:36:43.745Z - [ERROR] Không tìm thấy file cookies!
+2025-02-25T16:36:43.746Z - [ERROR] Lỗi khởi động bot:
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T16:36:43.746Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T16:38:12.248Z - [ERROR] Không tìm thấy file cookies!
+2025-02-25T16:38:12.250Z - [ERROR] Lỗi khởi động bot:
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T16:38:12.250Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T17:05:12.116Z - [ERROR] Lỗi đăng nhập bằng cookies:
+undefined
+2025-02-25T17:05:12.120Z - [ERROR] Lỗi đăng nhập:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:23:20)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T17:05:12.120Z - [ERROR] Lỗi khởi động bot:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:23:20)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T17:05:12.120Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:103:11)
+    at async startBot (/home/runner/workspace/src/index.ts:23:20)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T17:22:27.800Z - [ERROR] Lỗi đăng nhập bằng cookies:
+undefined
+2025-02-25T22:51:15.899Z - [ERROR] Không tìm thấy file cookies!
+2025-02-25T22:51:15.901Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T22:51:15.901Z - [ERROR] Lỗi khởi động bot:
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:41:13)
+2025-02-25T23:19:25.938Z - [ERROR] Không tìm thấy file cookies!
+2025-02-25T23:19:25.939Z - [ERROR] Lỗi khởi động bot:
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:42:13)
+2025-02-25T23:19:25.940Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Vui lòng cấu hình cookies Facebook theo hướng dẫn trong README.md
+    at startBot (/home/runner/workspace/src/index.ts:19:13)
+    at async main (/home/runner/workspace/src/index.ts:42:13)
+2025-02-25T23:51:54.525Z - [ERROR] Lỗi đăng nhập bằng cookies: undefined [Error retrieving userID. This can be caused by a lot of things, including getting blocked by Facebook for logging in from an unknown location. Try logging in with a browser to verify.]
+2025-02-25T23:51:54.528Z - [ERROR] Lỗi đăng nhập: Cần cookies để đăng nhập
+2025-02-25T23:51:54.530Z - [ERROR] Lỗi khởi động bot:
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:97:11)
+    at async startBot (/home/runner/workspace/src/index.ts:23:20)
+    at async main (/home/runner/workspace/src/index.ts:42:13)
+2025-02-25T23:51:54.530Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+Error: Cần cookies để đăng nhập
+    at loginBot (/home/runner/workspace/src/utils/login.ts:97:11)
+    at async startBot (/home/runner/workspace/src/index.ts:23:20)
+    at async main (/home/runner/workspace/src/index.ts:42:13)
+2025-02-25T23:54:37.727Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:37.727Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:38.313Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:38.313Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:48.539Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:48.539Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:48.782Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:48.781Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:58.980Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:58.980Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:59.245Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:54:59.245Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:55:09.433Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:55:09.433Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:55:09.433Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-25T23:55:09.433Z - [ERROR] Lỗi khởi động bot:
+undefined
+2025-02-25T23:56:02.804Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:02.804Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:03.125Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:03.125Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:13.231Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:13.231Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:13.938Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:13.938Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:23.766Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:23.766Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:24.321Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-25T23:56:24.321Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:22.106Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:22.106Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:22.618Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:22.618Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:32.576Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:32.577Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:32.988Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:32.988Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:43.425Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:43.425Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:43.823Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:43.824Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:53.903Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:53.903Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:53.903Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-26T00:15:53.903Z - [ERROR] Lỗi khởi động bot:
+undefined
+2025-02-26T00:15:57.777Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:57.777Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:15:57.879Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:15:57.879Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:08.206Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:16:08.206Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:08.692Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:16:08.692Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:18.644Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:16:18.644Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:19.091Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:19.091Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:16:29.100Z - [ERROR] Lỗi đăng nhập:
+undefined
+2025-02-26T00:16:29.100Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:16:29.100Z - [ERROR] Lỗi khởi động bot:
+undefined
+2025-02-26T00:16:29.100Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-26T00:54:53.016Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:54:54.408Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:55:10.115Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:55:12.036Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:55:23.447Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:55:25.152Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:12.529Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:14.090Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:25.281Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:26.715Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:38.482Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:58:42.349Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:17.304Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:17.524Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:30.651Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:31.028Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:43.820Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T00:59:44.221Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:03:55.548Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:03:55.560Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:07.648Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:08.003Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:19.808Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:21.019Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:32.107Z - [ERROR] Lỗi khởi động bot:
+undefined
+2025-02-26T01:04:32.107Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:04:32.107Z - [ERROR] Bot bị ngắt kết nối, đợi để kết nối lại...
+undefined
+2025-02-26T01:08:10.326Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:08:12.300Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:08:23.189Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:08:24.365Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:08:36.296Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:08:37.456Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:12:36.528Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:12:36.690Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:12:48.871Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:12:48.906Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:13:00.743Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:13:01.012Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:02.796Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:03.178Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:15.637Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:15.769Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:28.941Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:28.947Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:43.386Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:43.805Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:55.806Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:18:55.906Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:19:08.563Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T01:19:10.821Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:12.199Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:12.459Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:28.194Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:28.301Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:41.408Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T02:46:41.683Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:33:00.558Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:33:14.461Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:33:29.523Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:33:43.284Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:33:43.284Z - [ERROR] Failed to initialize bot:
+undefined
+2025-02-26T05:34:13.478Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:34:27.680Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:34:44.195Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:35:01.071Z - [ERROR] Failed to initialize bot:
+undefined
+2025-02-26T05:35:01.071Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:38:54.910Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:39:09.750Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:39:27.625Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:39:42.822Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T05:39:42.823Z - [ERROR] Failed to initialize bot:
+undefined
+2025-02-26T06:24:30.626Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T06:24:44.914Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T06:25:00.934Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T06:25:16.055Z - [ERROR] Lỗi đăng nhập: undefined
+2025-02-26T06:25:16.056Z - [ERROR] Failed to initialize bot:
+undefined
+{"timestamp":"2025-02-26T06:28:10.943Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:28:24.642Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:28:37.867Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:28:50.845Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:28:50.846Z","level":"error","message":"Failed to initialize bot:"}
+{"timestamp":"2025-02-26T06:42:24.850Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:42:39.602Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:42:53.168Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:43:06.927Z","level":"error","message":"Lỗi đăng nhập: undefined"}
+{"timestamp":"2025-02-26T06:43:06.930Z","level":"error","message":"Failed to initialize bot:"}
+{"timestamp":"2025-02-26T06:47:01.259Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:47:01.260Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:47:11.626Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:47:11.626Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:48:39.144Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:48:39.146Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:48:49.733Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:48:49.734Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:50:50.258Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:50:50.259Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:51:03.174Z","level":"error","message":"Login with credentials failed:"}
+{"timestamp":"2025-02-26T06:51:03.175Z","level":"error","message":"Lỗi đăng nhập:"}
+{"timestamp":"2025-02-26T06:52:28.201Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:52:28.205Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-26T06:52:41.864Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:52:41.871Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-26T06:53:34.170Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:53:34.173Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-26T06:54:05.066Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:54:05.071Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-26T06:54:18.586Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:54:18.589Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-26T06:55:48.250Z","level":"error","message":"Login with credentials failed:","stackTrace":"Error: [object Object]\n    at <anonymous> (/home/runner/workspace/src/utils/login.ts:64:87)\n    at /home/runner/workspace/node_modules/facebook-chat-api/index.js:456:7\n    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/main/util.js:26:23)\n    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:510:31)\n    at Promise._settlePromiseAt (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:584:18)\n    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/main/promise.js:700:14)\n    at Async._drainQueue (/home/runner/workspace/node_modules/bluebird/js/main/async.js:123:16)\n    at Async._drainQueues (/home/runner/workspace/node_modules/bluebird/js/main/async.js:133:10)\n    at Async.drainQueues [as _onImmediate] (/home/runner/workspace/node_modules/bluebird/js/main/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"}
+{"timestamp":"2025-02-26T06:55:48.253Z","level":"error","message":"Lỗi đăng nhập:","stackTrace":"Error: [object Object]\n    at loginBot (/home/runner/workspace/src/utils/login.ts:130:71)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async initializeBotInBackground (/home/runner/workspace/server/index.ts:61:14)"}
+{"timestamp":"2025-02-27T08:34:34.330Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:34:34.332Z","level":"error","message":"Server start attempt 1 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:34:39.339Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:34:39.339Z","level":"error","message":"Server start attempt 2 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:34:48.228Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:34:48.231Z","level":"error","message":"Server start attempt 1 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:34:53.237Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:34:53.238Z","level":"error","message":"Server start attempt 2 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:54:34.189Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:54:34.192Z","level":"error","message":"Server start attempt 1 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:54:39.200Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:54:39.200Z","level":"error","message":"Server start attempt 2 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:54:47.490Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:54:47.494Z","level":"error","message":"Server start attempt 1 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at <anonymous> (/home/runner/workspace/server/index.ts:192:1)\n    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)"}
+{"timestamp":"2025-02-27T08:54:52.503Z","level":"error","message":"Error starting server:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T08:54:52.504Z","level":"error","message":"Server start attempt 2 failed:","stackTrace":"ReferenceError: require is not defined\n    at <anonymous> (/home/runner/workspace/server/index.ts:87:21)\n    at new Promise (<anonymous>)\n    at findAvailablePort (/home/runner/workspace/server/index.ts:86:14)\n    at <anonymous> (/home/runner/workspace/server/index.ts:107:37)\n    at new Promise (<anonymous>)\n    at startServer (/home/runner/workspace/server/index.ts:105:12)\n    at Timeout.startWithRetry (/home/runner/workspace/server/index.ts:176:11)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"}
+{"timestamp":"2025-02-27T09:26:19.864Z","level":"error","message":"Unhandled Express error:","stackTrace":"TypeError: Cannot read properties of undefined (reading 'createLogEntry')\n    at info (/home/runner/workspace/src/utils/logger.ts:147:24)\n    at ServerResponse.res.send (/home/runner/workspace/server/middleware/logger.ts:92:7)\n    at ServerResponse.json (/home/runner/workspace/node_modules/express/lib/response.js:278:15)\n    at <anonymous> (/home/runner/workspace/server/index.ts:73:7)\n    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/runner/workspace/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/runner/workspace/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/runner/workspace/node_modules/express/lib/router/layer.js:95:5)\n    at /home/runner/workspace/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/runner/workspace/node_modules/express/lib/router/index.js:346:12)"}
