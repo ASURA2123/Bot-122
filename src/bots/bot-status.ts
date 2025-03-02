@@ -1,0 +1,3 @@
+import logger from '../utils/logger';
+
+// ... rest of the bot-status.ts file ...
