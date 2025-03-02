@@ -1,0 +1,210 @@
+Bạn muốn tối ưu log hệ thống để dễ đọc và chuyên nghiệp hơn khi chạy bot? Dưới đây là một số cách cải thiện:
+
+🔹 1. Sử dụng Màu sắc và Định dạng
+Dùng thư viện như chalk để tạo màu sắc nổi bật:
+
+javascript
+Copy
+Edit
+const chalk = require("chalk");
+
+console.log(chalk.green("[INFO] Bot đã khởi động thành công!"));
+console.log(chalk.yellow("[WARNING] Token sắp hết hạn, kiểm tra lại!"));
+console.log(chalk.red("[ERROR] Lỗi kết nối đến Facebook API!"));
+💡 Lợi ích: Giúp dễ phân biệt log quan trọng.
+
+🔹 2. Ghi Log có Cấu trúc (Timestamp, Tag, Nội dung)
+Dùng console.log kèm timestamp để dễ theo dõi:
+
+javascript
+Copy
+Edit
+const log = (level, message) => {
+    const timestamp = new Date().toISOString();
+    const levels = {
+        INFO: chalk.green("[INFO]"),
+        WARNING: chalk.yellow("[WARNING]"),
+        ERROR: chalk.red("[ERROR]")
+    };
+    console.log(`${chalk.gray(timestamp)} ${levels[level]} ${message}`);
+};
+
+log("INFO", "Bot đã khởi động thành công!");
+log("WARNING", "Token sắp hết hạn, kiểm tra lại!");
+log("ERROR", "Lỗi kết nối đến Facebook API!");
+💡 Lợi ích: Log dễ đọc, rõ ràng theo cấp độ.
+
+🔹 3. Ghi Log ra File (Dùng Winston)
+Dùng thư viện winston để lưu log vào file:
+
+javascript
+Copy
+Edit
+const winston = require("winston");
+
+const logger = winston.createLogger({
+    level: "info",
+    format: winston.format.combine(
+        winston.format.timestamp(),
+        winston.format.printf(({ timestamp, level, message }) => {
+            return `${timestamp} [${level.toUpperCase()}] ${message}`;
+        })
+    ),
+    transports: [
+        new winston.transports.Console(),
+        new winston.transports.File({ filename: "bot.log" })
+    ]
+});
+
+logger.info("Bot đã khởi động!");
+logger.warn("Token sắp hết hạn!");
+logger.error("Lỗi kết nối đến Facebook API!");
+💡 Lợi ích: Lưu log vào file để debug sau này.
+
+🔹 4. Hiển thị Log Đẹp trên Terminal (Dùng Boxen)
+Thư viện boxen giúp tạo log nổi bật:
+
+javascript
+Copy
+Edit
+const boxen = require("boxen");
+
+console.log(boxen("Bot đã khởi động thành công!", { padding: 1, borderStyle: "round", borderColor: "green" }));
+💡 Lợi ích: Log quan trọng dễ nhận diện.
+
+🔥 Kết hợp Hoàn chỉnh
+Bạn có muốn mình giúp chỉnh sửa code bot của bạn để áp dụng những cách này không? 🚀
+
+
+
+
+
+
+
+You said:
+full
+ChatGPT said:
+Dưới đây là một module log hoàn chỉnh dành cho bot Messenger của bạn, tích hợp đầy đủ:
+
+✅ Màu sắc & Format đẹp (chalk)
+✅ Log có cấu trúc & Timestamp
+✅ Lưu log ra file (winston)
+✅ Hiển thị đẹp trên terminal (boxen)
+
+📂 1. Cấu trúc thư mục
+lua
+Copy
+Edit
+/bot
+ ├── logs/
+ │   ├── bot.log  (file log)
+ │   ├── error.log  (log lỗi)
+ ├── utils/
+ │   ├── logger.js  (module log)
+ ├── index.js  (file chính của bot)
+ ├── package.json
+🔹 2. Cài đặt thư viện
+Trước tiên, cài đặt các thư viện cần thiết:
+
+bash
+Copy
+Edit
+npm install chalk winston boxen moment fs-extra
+🔹 3. Tạo file /utils/logger.js
+Đây là module giúp ghi log chuyên nghiệp:
+
+javascript
+Copy
+Edit
+const chalk = require("chalk");
+const winston = require("winston");
+const moment = require("moment");
+const boxen = require("boxen");
+const fs = require("fs-extra");
+
+// Tạo thư mục logs nếu chưa có
+fs.ensureDirSync("logs");
+
+// Cấu hình Winston để ghi log ra file
+const logger = winston.createLogger({
+    level: "info",
+    format: winston.format.combine(
+        winston.format.timestamp({ format: "YYYY-MM-DD HH:mm:ss" }),
+        winston.format.printf(({ timestamp, level, message }) => {
+            return `${timestamp} [${level.toUpperCase()}] ${message}`;
+        })
+    ),
+    transports: [
+        new winston.transports.File({ filename: "logs/bot.log", level: "info" }),
+        new winston.transports.File({ filename: "logs/error.log", level: "error" }),
+        new winston.transports.Console()
+    ]
+});
+
+// Hàm log với màu sắc
+const log = (level, message) => {
+    const timestamp = moment().format("YYYY-MM-DD HH:mm:ss");
+    const levels = {
+        info: chalk.green("[INFO]"),
+        warning: chalk.yellow("[WARNING]"),
+        error: chalk.red("[ERROR]")
+    };
+    
+    console.log(`${chalk.gray(timestamp)} ${levels[level]} ${message}`);
+    logger.log(level, message);
+};
+
+// Hàm log nổi bật trong terminal
+const logHighlight = (message) => {
+    console.log(boxen(message, { padding: 1, borderStyle: "round", borderColor: "green" }));
+};
+
+module.exports = { log, logHighlight };
+🔹 4. Sử dụng trong index.js
+Trong file chính của bot, import module logger.js:
+
+javascript
+Copy
+Edit
+const { log, logHighlight } = require("./utils/logger");
+
+logHighlight("🚀 Bot Messenger đang khởi động...");
+
+log("info", "Bot đã khởi động thành công!");
+log("warning", "Token sắp hết hạn, cần kiểm tra!");
+log("error", "Lỗi kết nối đến Facebook API!");
+
+setTimeout(() => {
+    logHighlight("🔥 Bot đang chạy mượt mà!");
+}, 3000);
+💎 Kết quả
+Khi chạy bot, log sẽ hiển thị đẹp mắt:
+
+Trên Terminal
+css
+Copy
+Edit
+╭────────────────────────────────╮
+│ 🚀 Bot Messenger đang khởi động...  │
+╰────────────────────────────────╯
+[2025-02-27 12:00:00] [INFO] Bot đã khởi động thành công!
+[2025-02-27 12:00:05] [WARNING] Token sắp hết hạn, cần kiểm tra!
+[2025-02-27 12:00:10] [ERROR] Lỗi kết nối đến Facebook API!
+╭────────────────────────────╮
+│ 🔥 Bot đang chạy mượt mà!  │
+╰────────────────────────────╯
+Trong File logs/bot.log
+log
+Copy
+Edit
+2025-02-27 12:00:00 [INFO] Bot đã khởi động thành công!
+2025-02-27 12:00:05 [WARNING] Token sắp hết hạn, cần kiểm tra!
+2025-02-27 12:00:10 [ERROR] Lỗi kết nối đến Facebook API!
+🚀 Lợi ích
+✅ Log có màu sắc dễ đọc
+✅ Tích hợp timestamp giúp theo dõi thời gian log
+✅ Lưu log vào file để dễ dàng debug
+✅ Log lỗi riêng trong logs/error.log
+✅ Dễ dàng mở rộng, chỉnh sửa theo nhu cầu
+
+Bạn có muốn thêm tính năng nào nữa không? 🔥

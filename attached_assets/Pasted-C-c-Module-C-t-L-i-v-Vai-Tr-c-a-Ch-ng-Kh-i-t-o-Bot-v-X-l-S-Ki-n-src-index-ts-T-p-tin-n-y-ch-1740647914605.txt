@@ -1,0 +1,40 @@
+Các Module Cốt Lõi và Vai Trò của Chúng
+Khởi tạo Bot và Xử lý Sự Kiện (src/index.ts):
+Tập tin này chịu trách nhiệm khởi động bot—đăng nhập vào API Facebook Messenger, thiết lập kết nối, và điều phối các trình lắng nghe sự kiện. Về cơ bản, đây là điểm khởi đầu của bot.
+
+Xử lý Sự Kiện Tin Nhắn (src/events/message.ts):
+Module này tập trung vào việc xử lý các tin nhắn đến. Nó thường phân tích payload của tin nhắn, nhận diện các lệnh hoặc từ khóa, sau đó kích hoạt các phản hồi hoặc hành động phù hợp.
+
+Hệ Thống Xử Lý Lệnh (src/commands/index.ts):
+Đây là hệ thống chuyên dụng để quản lý các lệnh của người dùng. Bằng cách ánh xạ các lệnh đến các hàm xử lý tương ứng, hệ thống này cho phép bạn thêm, cập nhật hoặc loại bỏ lệnh mà không làm gián đoạn toàn bộ mã nguồn.
+
+Các Module Tiện Ích (src/utils):
+Các module này cung cấp các hàm hỗ trợ—xử lý lỗi, ghi log, quản lý phiên làm việc—giúp đảm bảo hoạt động của bot được ổn định và lỗi được ghi nhận, báo cáo một cách chính xác.
+
+Giao Diện Dashboard:
+Mặc dù không được chi tiết trong đoạn mã của bạn, việc tích hợp dashboard web gợi ý một giao diện quản trị bổ sung. Dashboard này có thể cho phép theo dõi thời gian thực, thay đổi cấu hình và cung cấp thông tin từ các log, rất hữu ích cho việc quản lý hoạt động của bot.
+
+Xác Minh Các Phụ Thuộc và Cấu Trúc
+Sử dụng các lệnh như:
+
+ls -la node_modules | grep -v "^d" | head -n 20
+giúp bạn nhanh chóng xem các package đã được cài đặt và có được cái nhìn tổng quan về các thư viện bên ngoài mà dự án phụ thuộc vào.
+
+cat package.json
+cung cấp danh sách đầy đủ các phụ thuộc, script và các metadata khác hướng dẫn hoạt động của bot. Đây là thông tin quan trọng để hiểu được các framework và thư viện (ví dụ như Express cho dashboard web, hoặc các SDK của Facebook Messenger) đã được tích hợp.
+
+Khuyến Nghị Cho Bot Của Bạn
+Áp Dụng Kiến Trúc Dựa Trên Sự Kiện:
+Sử dụng hệ thống sự kiện tương tự (như trong src/events) để xử lý các tương tác khác nhau (tin nhắn, lệnh, v.v.). Cách tiếp cận theo mô-đun này giúp việc gỡ lỗi và bổ sung tính năng trong tương lai trở nên đơn giản hơn.
+
+Triển Khai Hệ Thống Lệnh Theo Mô-đun:
+Cấu trúc các lệnh của bạn tương tự như trong src/commands. Mẫu đăng ký lệnh (trong đó mỗi lệnh được định nghĩa với tên, mô tả và hàm thực thi) giúp mở rộng khả năng của bot một cách dễ dàng.
+
+Tận Dụng Các Module Tiện Ích:
+Xử lý lỗi, ghi log và quản lý phiên làm việc là những yếu tố quan trọng đối với bất kỳ ứng dụng ổn định nào. Bạn nên áp dụng các hàm tiện ích từ src/utils để duy trì sự nhất quán trong các thành phần của bot.
+
+Tích Hợp Dashboard Web:
+Ngay cả khi bot chủ yếu tương tác qua Messenger, một dashboard cũng vô cùng hữu ích để theo dõi, phân tích thời gian thực và thực hiện các tác vụ quản trị. Bạn có thể sử dụng dashboard hiện có làm mẫu và tùy chỉnh để phù hợp với nhu cầu của mình.
+
+Điều Chỉnh Theo Yêu Cầu Cụ Thể:
+Mặc dù cấu trúc dự án rất vững chắc, bạn cần điều chỉnh lại các đường dẫn, phiên bản phụ thuộc và cấu hình để phù hợp với trường hợp sử dụng và môi trường cụ thể của bạn.

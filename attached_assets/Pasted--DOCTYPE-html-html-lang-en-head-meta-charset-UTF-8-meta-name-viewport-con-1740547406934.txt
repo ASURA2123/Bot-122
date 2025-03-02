@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu</title>
+    <style>
+        /* Toàn bộ trang */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            background-size: 400% 400%;
+            animation: gradientBG 5s ease infinite;
+            color: #ffffff;
+            overflow: hidden;
+        }
+
+        @keyframes gradientBG {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        /* Hiệu ứng di chuyển nền */
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 10%, transparent 50%);
+            animation: moveBackground 8s linear infinite;
+            pointer-events: none;
+        }
+
+        @keyframes moveBackground {
+            from {
+                transform: translate(-50%, -50%) rotate(0deg);
+            }
+            to {
+                transform: translate(-50%, -50%) rotate(360deg);
+            }
+        }
+
+        /* Khung thông tin */
+        .info-card {
+            position: relative;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.8);
+            padding: 30px;
+            width: 90%;
+            max-width: 450px;
+            backdrop-filter: blur(10px);
+            transform: scale(1);
+            transition: transform 0.6s ease, box-shadow 0.6s ease;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+
+        .info-card:hover {
+            transform: scale(1.1) rotate(1deg);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 1);
+        }
+
+        .info-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 10%, transparent 80%);
+            transform: rotate(45deg);
+            animation: shine 4s infinite;
+            pointer-events: none;
+        }
+
+        @keyframes shine {
+            0% {
+                left: -200%;
+            }
+            50% {
+                left: 100%;
+            }
+            100% {
+                left: -200%;
+            }
+        }
+
+        .info-card img {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 4px solid #ffffff;
+            margin-bottom: 20px;
+            transition: transform 0.5s ease, filter 0.5s ease;
+            animation: popIn 2s ease;
+        }
+
+        .info-card img:hover {
+            transform: scale(1.3) rotate(10deg);
+            filter: brightness(1.3);
+        }
+
+        .info-card h1 {
+            font-size: 28px;
+            margin: 10px 0;
+            color: #ffd700;
+            animation: fadeIn 2s ease;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+        }
+
+        .info-card h2 {
+            font-size: 22px;
+            margin: 10px 0;
+            color: #ff5733;
+            text-transform: uppercase;
+            animation: fadeIn 2s ease;
+            text-shadow: 0 0 10px rgba(255, 87, 51, 0.5);
+        }
+
+        .info-card p {
+            font-size: 18px;
+            margin: 8px 0;
+            color: #e0e0e0;
+            animation: slideIn 1s ease-in-out;
+            text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .info-card a {
+            color: #ffd700;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 18px;
+            animation: bounce 2s infinite;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+
+        .info-card a:hover {
+            text-decoration: underline;
+            color: #ffecb3;
+        }
+        <style>
+    /* Tối ưu hóa hiển thị trên các kích thước màn hình khác nhau */
+    @media only screen and (max-width: 600px) {
+        body {
+            padding: 10px;
+        }
+
+        .info-card {
+            padding: 20px;
+            width: 100%;
+        }
+
+        .info-card img {
+            width: 100px;
+            height: 100px;
+        }
+
+        .info-card h1 {
+            font-size: 22px;
+        }
+
+        .info-card h2 {
+            font-size: 18px;
+        }
+
+        .info-card p {
+            font-size: 16px;
+        }
+    }
+
+    @media only screen and (min-width: 601px) and (max-width: 1024px) {
+        .info-card {
+            width: 80%;
+        }
+
+        .info-card h1 {
+            font-size: 26px;
+        }
+
+        .info-card h2 {
+            font-size: 20px;
+        }
+    }
+
+    @media only screen and (min-width: 1025px) {
+        .info-card {
+            width: 50%;
+        }
+
+        .info-card h1 {
+            font-size: 30px;
+        }
+
+        .info-card h2 {
+            font-size: 24px;
+        }
+    }
+</style>
+
+    </style>
+</head>
+<body>
+    <div class="info-card">
+        <img src="https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-13.jpg" alt="Ảnh đại diện">
+        <h1>Nguyễn Đức Anh</h1>
+        <h2>Admin</h2>
+        <p>📞 Số điện thoại: <strong>0868-577-240</strong></p>
+        <p>🌐 Facebook: <a href="https://www.facebook.com/Anh1314029" target="_blank">facebook.com/yourprofile</a></p>
+        <audio autoplay controls>
+            <source src="NỖI NHỚ VÔ HẠN - THANH HƯNG x DOMINO REMIX - Từng Yêu Cả Một Thành Phố Vì Nơi Đó Có Một Người Remix.mp3" type="audio/mpeg">
+            Trình duyệt của bạn không hỗ trợ phát nhạc.
+        </audio>
+        
+    </div>
+
+</body>
+</html>

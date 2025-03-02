@@ -1,0 +1,59 @@
+Kết bạn qua ID Facebook: Cho phép kết bạn với người khác thông qua ID Facebook.
+Kiểm tra thông tin admin: Xem thông tin của quản trị viên trong nhóm.
+Thêm người dùng vào nhóm bằng link hoặc ID: Mời thành viên vào nhóm qua đường link mời hoặc ID người dùng.
+Đưa ra ngẫu nhiên một lời khuyên: Cung cấp lời khuyên ngẫu nhiên cho người dùng.
+Bật/tắt chế độ AFK: Chế độ bận không trả lời tin nhắn (Away From Keyboard).
+Tự động ban người dùng chửi bot: Tự động ban người dùng nếu có hành vi xúc phạm bot.
+Tự động tải xuống khi phát hiện liên kết: Tải xuống file hoặc tài liệu khi phát hiện liên kết trong nhóm.
+Bật/tắt tự động đã xem (seen) khi có tin nhắn mới: Tự động đánh dấu tin nhắn đã xem khi có tin nhắn mới.
+Tự động set name cho thành viên mới: Thiết lập tên cho thành viên mới khi gia nhập nhóm.
+Đếm ngược đến sinh nhật Bác Hồ: Đếm ngược thời gian đến ngày sinh nhật của Chủ tịch Hồ Chí Minh.
+Game 3 cây dành cho nhóm có đặt cược (có ảnh lá bài): Chơi game 3 cây với tính năng đặt cược, có ảnh lá bài.
+Giải bài tập: Hỗ trợ giải các bài tập hoặc câu hỏi.
+Kiểm tra số tiền của bản thân hoặc người được tag: Xem số dư tài khoản của mình hoặc người được tag trong nhóm.
+Bàn bầu cua nhiều người chơi: Chơi trò chơi bầu cua với nhiều người tham gia.
+Check tương tác các thành viên trong nhóm: Kiểm tra mức độ tương tác của các thành viên trong nhóm.
+Ngăn chặn việc thay đổi quản trị viên nhóm: Cấm thay đổi quyền quản trị viên trong nhóm.
+Nhờ bot chọn giúp một trong những việc cần làm: Để bot chọn một công việc ngẫu nhiên cho bạn.
+Chúc Tết: Gửi lời chúc Tết cho các thành viên trong nhóm.
+Game lật đồng xu: Chơi trò chơi lật đồng xu.
+Công thức FULL môn ở Việt Nam: Cung cấp công thức hoặc tài liệu học cho các môn học ở Việt Nam.
+Tỉ lệ có người yêu trong năm nay: Dự đoán tỉ lệ có người yêu trong năm.
+Xem ảnh gái xinh cosplay: Tìm kiếm và chia sẻ ảnh cosplay gái xinh.
+Tạo ảnh bìa phong cách dịch vụ Facebook: Tạo ảnh bìa với phong cách phù hợp cho Facebook.
+Random câu hỏi về CS:GO: Tạo câu hỏi ngẫu nhiên về trò chơi CS:GO.
+Dịch ngôn ngữ: Dịch văn bản từ ngôn ngữ này sang ngôn ngữ khác.
+Tìm ngày giờ tạo nick Facebook: Xem thời gian tạo tài khoản Facebook.
+Xóa tất cả thành viên trong nhóm: Xóa tất cả các thành viên khỏi nhóm.
+Tìm kiếm kết quả trên Google: Tìm kiếm thông tin qua Google.
+Đếm ngược đến Halloween: Đếm ngược thời gian đến ngày lễ Halloween.
+Hướng dẫn cho người mới: Cung cấp hướng dẫn cho thành viên mới tham gia nhóm.
+Game hỏi ngu xem thông tin của thành viên: Chơi trò chơi hỏi ngu và kiểm tra thông tin của thành viên.
+Tham gia vào các box bot đang ở: Tham gia các phòng chat mà bot đang hoạt động.
+Những câu nói của Joker: Chia sẻ các câu nói nổi tiếng của nhân vật Joker.
+Kéo búa bao (Oẳn tù tì): Chơi trò chơi kéo búa bao.
+Đếm ngược tới ngày khai giảng: Đếm ngược đến ngày khai giảng năm học mới.
+Ghép đôi: Tạo cặp đôi ngẫu nhiên giữa các thành viên.
+Xem thông tin tướng Liên Quân: Xem thông tin các tướng trong game Liên Quân.
+Lấy link Facebook: Lấy liên kết Facebook của người dùng.
+Xem danh sách ban của nhóm hoặc người dùng: Xem danh sách các thành viên bị cấm trong nhóm.
+List thread bot đã tham gia: Liệt kê các chủ đề mà bot đã tham gia.
+Công cụ tìm lời bài hát: Tìm kiếm lời bài hát.
+Siêu độ cho người bạn muốn: Cung cấp lời chúc siêu độ cho một người cụ thể.
+Tạo nhóm chat mới với người được tag: Tạo nhóm chat mới với người được tag.
+Chơi nối từ với bot hoặc thành viên trong nhóm: Chơi trò chơi nối từ trong nhóm.
+Ghi chú: Tạo và lưu ghi chú cá nhân hoặc nhóm.
+Ôm người bạn muốn: Tạo hành động ôm ngẫu nhiên cho một thành viên.
+Out box: Thoát khỏi phòng chat hoặc nhóm.
+Duyệt thành viên trong danh sách phê duyệt box: Duyệt các thành viên đang chờ vào box.
+Tag toàn bộ thành viên: Đánh dấu tất cả thành viên trong nhóm.
+Đếm ngược tới Quốc Khánh Việt Nam: Đếm ngược đến ngày Quốc Khánh của Việt Nam.
+Thông báo rank up cho từng nhóm, người dùng: Thông báo khi một người dùng hoặc nhóm đạt cấp bậc mới.
+Lấy rank hiện tại của bạn trên hệ thống bot kèm khung theo level: Kiểm tra cấp bậc hiện tại của bạn trong hệ thống bot.
+Load lại toàn bộ thông tin của nhóm: Tải lại tất cả thông tin về nhóm.
+Khởi động lại bot: Làm mới hoặc khởi động lại bot.
+Đổi biệt danh của bot toàn bộ bot: Thay đổi biệt danh của bot trong toàn bộ nhóm.
+Đổi biệt danh của toàn bộ nhóm: Thay đổi biệt danh nhóm.
+Chỉnh sửa văn bản/ảnh động khi có thành viên mới tham gia: Tự động chỉnh sửa văn bản hoặc tạo ảnh động khi có thành viên mới tham gia.
+Chỉnh sửa văn bản/ảnh động khi có thành viên mới rời nhóm: Tự động chỉnh sửa văn bản hoặc tạo ảnh động khi có thành viên rời nhóm.
+Set lượt dùng bot: Cài đặt số lượt sử dụng bot cho người dùng.
