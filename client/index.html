@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Bot Dashboard</title>
+    <style>
+      /* Main Styles */
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+        min-height: 100vh;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        background-size: 400% 400%;
+        animation: gradientBG 5s ease infinite;
+        color: #ffffff;
+      }
+
+      @keyframes gradientBG {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+
+      /* Animated Background */
+      body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(255,255,255,0.1) 10%, transparent 50%);
+        animation: moveBackground 8s linear infinite;
+        pointer-events: none;
+        z-index: -1;
+      }
+
+      @keyframes moveBackground {
+        from { transform: translate(-50%, -50%) rotate(0deg); }
+        to { transform: translate(-50%, -50%) rotate(360deg); }
+      }
+
+      /* Root Element Styles */
+      #root {
+        min-height: 100vh;
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+      }
+
+      /* Text Styles */
+      h1, h2, h3 {
+        margin: 10px 0;
+        color: #ffd700;
+        text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+      }
+
+      h2 {
+        color: #ff5733;
+        text-transform: uppercase;
+        text-shadow: 0 0 10px rgba(255, 87, 51, 0.5);
+      }
+
+      p {
+        margin: 8px 0;
+        color: #e0e0e0;
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      }
+
+      /* Link Styles */
+      a {
+        color: #ffd700;
+        text-decoration: none;
+        font-weight: bold;
+        transition: color 0.3s ease;
+      }
+
+      a:hover {
+        color: #ffecb3;
+        text-decoration: underline;
+      }
+
+      /* Animations */
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(-30px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+
+      /* Media Queries */
+      @media only screen and (max-width: 600px) {
+        body { padding: 10px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
